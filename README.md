@@ -87,7 +87,7 @@ N’oubliez pas de lire aussi le contenu, il fait partie des informations de bas
   - Attributs : ce sont des propriétés utilisées pour fournir des informations complémentaires sur un élément. Les attributs les plus communs incluent l'attribut ID (qui identifie un élément), l'attribut CLASS (qui classifie un élément), l'attribut SRC (qui spécifie la source d'un contenu qui peut être imbriqué) et l'attribut HREF (qui contient un lien hypertexte vers une ressource liée). Les attributs sont définis au sein de la balise ouvrant après le nom de l'élément :
   
   ```
-  <a href="https://github.com/Ma6Tvacoder-Docs/partages">Lien</a>
+  <a href="https://github.com">Lien</a>
   ```
 
 4. Structure
